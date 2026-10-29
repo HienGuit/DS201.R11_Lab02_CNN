@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+# Keep the dataset instructions/folders; exclude actual dataset bytes.
+data/*
+!data/VinaFood21/
+data/VinaFood21/*
+!data/VinaFood21/train/
+!data/VinaFood21/test/
+data/VinaFood21/train/*
+!data/VinaFood21/train/.gitkeep
+data/VinaFood21/test/*
+!data/VinaFood21/test/.gitkeep
+*.pt
+*.pth
+*.safetensors
+*.zip
+.env
+kaggle.json
+outputs/**/predictions.csv
+outputs/**/split_manifest.json

@@ -1,0 +1,12 @@
+{
+  "model": "resnet18",
+  "img_size": 96,
+  "batch_size": 32,
+  "epochs": 20,
+  "lr": 0.001,
+  "seed": 42,
+  "val_ratio": 0.2,
+  "num_workers": 2,
+  "num_classes": 21,
+  "augmentation": "none"
+}
