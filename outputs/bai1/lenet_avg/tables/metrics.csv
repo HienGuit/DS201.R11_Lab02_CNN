@@ -1,0 +1,2 @@
+﻿experiment,model,img_size,parameters,trainable_parameters,best_epoch,best_val_f1_macro,mean_seconds_per_epoch,split_sha256,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,test_loss
+lenet_avg,lenet,64,339421,339421,18,0.303723165616253,113.84340785114998,972bc080b92cd1233a808aec61acf0890edc83cc431ada4e70589d93f9c16092,0.26743489973061957,0.25925819910621073,0.25033567935275436,0.24793082527584426,3.1764815527320227

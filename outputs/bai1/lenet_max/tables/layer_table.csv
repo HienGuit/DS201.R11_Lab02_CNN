@@ -1,0 +1,8 @@
+﻿layer,type,output_shape,parameters
+c1,Conv2d,"(2, 6, 60, 60)",456
+s2,MaxPool2d,"(2, 6, 30, 30)",0
+c3,Conv2d,"(2, 16, 26, 26)",2416
+s4,MaxPool2d,"(2, 16, 13, 13)",0
+f5,Linear,"(2, 120)",324600
+f6,Linear,"(2, 84)",10164
+out,Linear,"(2, 21)",1785

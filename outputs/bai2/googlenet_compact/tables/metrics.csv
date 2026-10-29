@@ -1,0 +1,2 @@
+﻿experiment,model,img_size,parameters,trainable_parameters,best_epoch,best_val_f1_macro,mean_seconds_per_epoch,split_sha256,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,test_loss
+googlenet_compact,googlenet,64,78221,78221,19,0.414871986019712,81.20867660890008,972bc080b92cd1233a808aec61acf0890edc83cc431ada4e70589d93f9c16092,0.3900029931158336,0.4040588940987691,0.3870851599994554,0.37572912067363323,2.0255091688441005

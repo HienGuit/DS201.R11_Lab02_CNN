@@ -1,0 +1,2 @@
+﻿experiment,model,img_size,parameters,trainable_parameters,best_epoch,best_val_f1_macro,mean_seconds_per_epoch,split_sha256,test_accuracy,test_precision_macro,test_recall_macro,test_f1_macro,test_loss
+resnet18_noaug,resnet18,96,11187285,11187285,15,0.47835916752164614,83.81259956734975,972bc080b92cd1233a808aec61acf0890edc83cc431ada4e70589d93f9c16092,0.4010775217000898,0.4147197098560468,0.3833679589104306,0.3814035103988966,3.4481445588383335

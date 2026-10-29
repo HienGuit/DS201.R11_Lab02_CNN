@@ -1,0 +1,4 @@
+﻿block,input_channels,branch_1x1,branch_3x3,branch_5x5,branch_pool,computed_channels,actual_channels,output_shape,parameters
+1,3,16,24,8,8,56,56,"(2, 56, 64, 64)",4464
+2,56,32,48,16,16,112,112,"(2, 112, 32, 32)",22104
+3,112,64,64,32,32,192,192,"(2, 192, 16, 16)",47600
